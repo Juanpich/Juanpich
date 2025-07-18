@@ -5,7 +5,7 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
 
 - :credit_card: My full name is **Juan Pablo Chiclana Urraco**
-- :school: I'm currently 1st year student at **Facultad Ciencias Exactas - UNICEN**
+- :school: I'm currently 2nd year student at **Facultad Ciencias Exactas - UNICEN**
 - :books: My major is **Tecnico Universitario en Desarrollo de Aplicaciones Informaticas**
 - :earth_asia: I'm living now in **Rauch - Tandil, BS AS**
 - :monocle_face: My interests (outside of programming) are spending time with my friends 💞, playing volleyball 🏐, and I love to party 🕺.
